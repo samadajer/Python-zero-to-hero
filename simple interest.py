@@ -1,3 +1,5 @@
+""" Code LGTM """
+
 #simple interest = prt/100
 p = float(input ("the principal amount : "))
 r = float(input("the rate : "))
