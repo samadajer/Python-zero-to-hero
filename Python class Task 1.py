@@ -21,3 +21,5 @@ print(type(y))
 x = 14 > 100
 print(x)
 print(type(x))
+
+"""Code LGTM """
